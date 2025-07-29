@@ -1,0 +1,3 @@
+# fs-palindrome-checker
+
+For this lab, you'll build an application that checks whether a given word is a palindrome.
